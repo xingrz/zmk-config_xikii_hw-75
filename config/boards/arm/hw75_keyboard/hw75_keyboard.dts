@@ -139,7 +139,7 @@
 		chain-length = <101>;
 		spi-one-frame = <0x70>;
 		spi-zero-frame = <0x40>;
-		color-mapping = <LED_COLOR_ID_YELLOW LED_COLOR_ID_BLUE LED_COLOR_ID_GREEN>;
+		color-mapping = <LED_COLOR_ID_RED LED_COLOR_ID_BLUE LED_COLOR_ID_GREEN>;
 	};
 };
 
