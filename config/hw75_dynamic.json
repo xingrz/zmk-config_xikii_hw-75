@@ -1,0 +1,22 @@
+{
+  "id": "hw75_dynamic",
+  "name": "hw75_dynamic",
+  "layouts": {
+    "default_layout": {
+      "name": "default_layout",
+      "layout": [
+        { "row": 0, "col": 0, "x": 0, "y": 0 },
+        { "row": 0, "col": 1, "x": 1, "y": 0 }
+      ]
+    }
+  },
+  "sensors": [
+    {
+      "ref": "knob",
+      "name": "knob",
+      "identifier": "knob",
+      "compatible": "zmk,knob",
+      "label": "KNOB"
+    }
+  ]
+}
