@@ -40,7 +40,7 @@
 &rgb_ug RGB_TOG  &rgb_ug RGB_EFF  &rgb_ug RGB_BRI  &rgb_ug RGB_HUI  &rgb_ug RGB_SAI  &rgb_ug RGB_SPI  &trans  &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6      &trans      &trans        &trans        &trans  &trans
          &trans  &rgb_ug RGB_EFR  &rgb_ug RGB_BRD  &rgb_ug RGB_HUD  &rgb_ug RGB_SAD  &rgb_ug RGB_SPD  &trans        &kp KP_N1  &kp KP_NUMBER_2  &kp KP_NUMBER_3      &trans      &trans                      &trans  &trans
          &trans                            &trans           &trans           &trans           &trans  &trans           &trans           &trans           &trans      &trans      &trans        &trans        &trans  &trans
-         &trans           &trans           &trans                                                     &trans                                             &tog 1      &trans      &trans        &trans        &trans  &trans
+         &trans           &trans           &trans                                                     &trans                                              &to 1      &trans       &to 0        &trans        &trans  &trans
                                                                              &trans           &trans  &trans           &trans           &trans           &trans
             >;
         };
