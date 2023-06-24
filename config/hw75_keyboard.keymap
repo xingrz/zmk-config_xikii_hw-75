@@ -35,13 +35,13 @@
         fn {
             label = "FN";
             bindings = <
-         &trans                     &kp C_BRI_DEC    &kp C_BRI_INC            &none            &none   &none            &none       &kp C_PREV         &kp C_PP  &kp C_NEXT  &kp C_MUTE  &kp C_VOL_DN  &kp C_VOL_UP  &trans
-         &trans           &trans           &trans           &trans           &trans           &trans  &trans           &trans           &trans           &trans      &trans      &trans        &trans        &trans  &trans
-&rgb_ug RGB_TOG  &rgb_ug RGB_EFF  &rgb_ug RGB_BRI  &rgb_ug RGB_HUI  &rgb_ug RGB_SAI  &rgb_ug RGB_SPI  &trans  &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6      &trans      &trans        &trans        &trans  &trans
-         &trans  &rgb_ug RGB_EFR  &rgb_ug RGB_BRD  &rgb_ug RGB_HUD  &rgb_ug RGB_SAD  &rgb_ug RGB_SPD  &trans        &kp KP_N1  &kp KP_NUMBER_2  &kp KP_NUMBER_3      &trans      &trans                      &trans  &trans
-         &trans                            &trans           &trans           &trans           &trans  &trans           &trans           &trans           &trans      &trans      &trans        &trans        &trans  &trans
-         &trans           &trans           &trans                                                     &trans                                              &to 0       &mo 1      &trans        &trans        &trans  &trans
-                                                                             &trans           &trans  &trans           &trans           &trans           &trans
+         &trans                     &kp C_BRI_DEC    &kp C_BRI_INC            &none            &none   &none         &none  &kp C_PREV  &kp C_PP  &kp C_NEXT  &kp C_MUTE  &kp C_VOL_DN  &kp C_VOL_UP  &trans
+         &trans           &trans           &trans           &trans           &trans           &trans  &trans        &kp N7      &kp N8    &kp N9      &kp N0      &trans        &trans        &trans  &trans
+&rgb_ug RGB_TOG  &rgb_ug RGB_EFF  &rgb_ug RGB_BRI  &rgb_ug RGB_HUI  &rgb_ug RGB_SAI  &rgb_ug RGB_SPI  &trans        &kp N4      &kp N5    &kp N6      &trans      &trans        &trans        &trans  &trans
+         &trans  &rgb_ug RGB_EFR  &rgb_ug RGB_BRD  &rgb_ug RGB_HUD  &rgb_ug RGB_SAD  &rgb_ug RGB_SPD  &trans  &kp NUMBER_1      &kp N2    &kp N3      &trans      &trans                      &trans  &trans
+         &trans                            &trans           &trans           &trans           &trans  &trans        &trans      &trans    &trans      &trans      &trans        &trans        &trans  &trans
+         &trans           &trans           &trans                                                     &trans                               &to 0       &mo 1      &trans        &trans        &trans  &trans
+                                                                             &trans           &trans  &trans        &trans      &trans    &trans
             >;
         };
 
