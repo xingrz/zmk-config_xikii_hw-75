@@ -24,8 +24,8 @@ LOG_MODULE_DECLARE(zmk, CONFIG_ZMK_LOG_LEVEL);
 
 static const struct device *led_strip;
 
-static const struct led_rgb color_red = { RGB(0xE7, 0xFF, 0x00) };
-static const struct led_rgb color_green = { RGB(0xFF, 0xA5, 0x00) };
+static const struct led_rgb color_red = { RGB(0xFF, 0xA5, 0x00) };
+static const struct led_rgb color_green = { RGB(0xFF, 0xFF, 0x00) };
 
 static struct indicator_settings settings = {
 	.enable = true,
