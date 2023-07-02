@@ -29,7 +29,7 @@
 &trans  &trans
             >;
 
-            sensor-bindings = <&inc_dec_kp C_BRI_DEC C_BRI_INC>;
+            sensor-bindings = <&inc_dec_kp LG(P) LG(P)>;
         };
 
         layer_2 {
