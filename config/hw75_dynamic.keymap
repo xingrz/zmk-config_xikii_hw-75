@@ -29,7 +29,7 @@
 &trans  &trans
             >;
 
-            sensor-bindings = <&inc_dec_kp A ENTER>;
+            sensor-bindings = <&inc_dec_kp P ENTER>;
         };
 
         layer_2 {
