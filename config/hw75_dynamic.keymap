@@ -20,7 +20,7 @@
 &kp LG(P)  &lvkp LV_KEY_NEXT
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP>;
+            sensor-bindings = <&inc_dec_kp C_AC_SCROLL_UP K_SCROLL_DOWN>;
         };
 
         layer_1 {
@@ -29,7 +29,7 @@
 &trans  &trans
             >;
 
-            sensor-bindings = <&inc_dec_kp LG(P) LG(P)>;
+            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         layer_2 {
